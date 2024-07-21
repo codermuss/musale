@@ -1,3 +1,4 @@
+![musale](https://github.com/user-attachments/assets/8fc245c6-40c2-452c-98c4-919e70da025a)
 # musale
 
 `musale` is a CLI tool for generating localization keys as Go constants from a JSON file. This tool helps streamline the process of using localization keys in Go projects, ensuring consistency and ease of use.
